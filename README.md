@@ -27,6 +27,7 @@ Para realizar la prueba se utilizó el sitio web:
 
 - **Sitio analizado:** [http://neverssl.com](http://neverssl.com)
 - **URL observada en la solicitud:** `http://youngshinylushrainbow.neverssl.com/online/`
+- **Host:** `youngshinylushrainbow.neverssl.com`
 - **Protocolo:** HTTP
 - **Método de solicitud:** GET
 - **Código de respuesta:** 200 OK
@@ -143,3 +144,33 @@ Por lo tanto, que los datos de la solicitud HTTP sigan apareciendo en DevTools n
 El modo incógnito protege principalmente la privacidad local de la navegación, mientras que una VPN cifra el tráfico entre el dispositivo y el servidor VPN.
 
 Ambas herramientas cumplen funciones diferentes. Para una navegación más segura, es recomendable utilizar una VPN en redes públicas y acceder siempre que sea posible a sitios web que utilicen HTTPS.
+
+---
+
+## 5. Las 3 Reglas de Oro para navegar en redes Wi-Fi públicas
+
+Para reducir los riesgos al conectarnos a redes Wi-Fi públicas, es importante aplicar las siguientes medidas de seguridad:
+
+### 5.1. Verificar la red antes de conectarse
+
+Comprobar siempre el nombre de la red Wi-Fi con el establecimiento antes de conectarse. Evitar redes desconocidas o sospechosas, ya que podrían tratarse de redes gemelas malignas (*Evil Twins*) creadas para engañar a los usuarios.
+
+### 5.2. Utilizar una VPN confiable
+
+Activar una VPN antes de navegar cuando se utiliza una red pública. Esto permite establecer un túnel cifrado entre el dispositivo y el servidor VPN, protegiendo el tráfico frente a posibles interceptaciones dentro de la red local.
+
+### 5.3. Utilizar HTTPS y evitar operaciones sensibles en conexiones inseguras
+
+Comprobar que los sitios web utilicen HTTPS antes de introducir contraseñas, datos personales o información bancaria. Evitar realizar operaciones sensibles si no se puede garantizar una conexión segura. Recordar que una VPN no reemplaza el cifrado HTTPS.
+
+---
+
+## 6. Conclusión final
+
+Las redes Wi-Fi públicas ofrecen comodidad, pero también pueden representar riesgos para la privacidad y la seguridad de nuestros datos.
+
+A través de esta práctica se pudo identificar el uso del protocolo HTTP, reconocer qué información puede observarse durante una solicitud web y comprender los riesgos asociados a una comunicación sin cifrado TLS.
+
+También se pudo analizar cómo una VPN aporta una capa adicional de protección mediante un túnel cifrado, aunque no reemplaza la necesidad de utilizar conexiones HTTPS.
+
+La seguridad al navegar depende de combinar herramientas tecnológicas con hábitos responsables de uso.
