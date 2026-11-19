@@ -157,7 +157,7 @@ Comprobar siempre el nombre de la red Wi-Fi con el establecimiento antes de cone
 
 ### 5.2. Utilizar una VPN confiable
 
-Activar una VPN antes de navegar cuando se utiliza una red pública. Esto permite establecer un túnel cifrado entre el dispositivo y el servidor VPN, protegiendo el tráfico frente a posibles interceptaciones dentro de la red local.
+Activar una VPN antes de navegar cuando se utiliza una red pública. Esto garantiza el encapsulamiento y cifrado del tráfico dentro de un túnel protegido, impidiendo que terceros en la misma red Wi-Fi puedan capturar o alterar la información en tránsito.
 
 ### 5.3. Utilizar HTTPS y evitar operaciones sensibles en conexiones inseguras
 
