@@ -133,7 +133,7 @@ Por lo tanto, que los datos de la solicitud HTTP sigan apareciendo en DevTools n
 
 **Evidencia de la inspección con VPN:**
 
-![Inspección de tráfico HTTP con VPN](evidencias/captura-con-vpn.png)
+![Inspección de tráfico HTTP con VPN](evidenciascaptura-con-vpn.png)
 
 **Evidencia de Proton VPN conectado:**
 
