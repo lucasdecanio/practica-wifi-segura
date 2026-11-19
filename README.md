@@ -137,7 +137,7 @@ Por lo tanto, que los datos de la solicitud HTTP sigan apareciendo en DevTools n
 
 **Evidencia de Proton VPN conectado:**
 
-![Proton VPN conectado](evidencias/proton-vpn-conectado.png)
+![Proton VPN conectado](evidenciasproton-vpn-conectado.png)
 
 **Conclusión de la comparación:**
 
