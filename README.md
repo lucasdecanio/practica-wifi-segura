@@ -59,7 +59,7 @@ Además, algunos encabezados permiten obtener información sobre el entorno del 
 
 **Captura de la inspección de tráfico sin VPN:**
 
-![Inspección de tráfico HTTP sin VPN](evidencias/captura-sin-vpn.png)
+![Inspección de tráfico HTTP sin VPN](evidenciascaptura-sin-vpn.png)
 
 ---
 
