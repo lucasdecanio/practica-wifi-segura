@@ -109,7 +109,7 @@ Por lo tanto, si se accede a un sitio HTTP desde una ventana de incógnito, la i
 
 ### 4.2. VPN (Red Privada Virtual)
 
-Una VPN establece un túnel cifrado entre el dispositivo del usuario y el servidor VPN.
+Una VPN establece un túnel seguro mediante técnicas de encapsulamiento y cifrado entre el dispositivo del usuario y el servidor VPN.
 
 De esta manera, ayuda a proteger el tráfico frente a personas que puedan observar la red local, como podría ocurrir al conectarse a una Wi-Fi pública.
 
